@@ -1,1 +1,8 @@
+![HealthStat healthcare schema](https://github.com/antonionunnally/PowerBI/assets/97487571/76786787-b8b5-4dcd-ad13-a9fbacf41b09)
+
+
+
+
+
+
 In this Power BI case study, I explored healthcare data to improve efficiency and patient care quality. Leveraging my DAX skills, I analyzed the attributes impacting patient length of stay (LOS) and cost, aiming to identify the factors contributing to hospital differences. I started by bringing the data into Power BI and connecting my data model. After understanding how to measure efficiency in healthcare and checking the dataset content, I delved into some initial exploratory analytics. Using my DAX skills, I created calculated measures and columns to gain deeper insights. As I progressed, I focused on identifying hospital performance outliers and determining the attributes that most influenced LOS and cost per patient discharge. This further enhanced my DAX skills as I built more complex measures and calculated tables. Finally, I brought all the insights together and created a dynamic and interactive dashboard, incorporating HealthStat branding for an appealing display. I optimized user-friendly navigation features and added a dynamic title to provide a comprehensive and informative report for the HealthStat team. This case study was an excellent opportunity for me to practice a range of Power BI skills while working with real-world healthcare data.
