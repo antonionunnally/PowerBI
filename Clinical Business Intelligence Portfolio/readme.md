@@ -14,4 +14,5 @@ This is an analysis of a Excel Hospital dataset to create Hospital KPIs
 
 # Data Model
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
+
 ![Data Model](https://github.com/antonionunnally/PowerBI/assets/97487571/f497e1d7-b27e-493e-87b2-83a482dcc084)
